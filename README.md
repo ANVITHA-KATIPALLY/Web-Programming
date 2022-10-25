@@ -1,6 +1,6 @@
 # Web-Programming
-Write a html program for Creation of web site with forms, frames, links, tables etc
-Design a web site using HTML and DHTML. Use Basic text Formatting, Images
+1.Write a html program for Creation of web site with forms, frames, links, tables etc
+2.Design a web site using HTML and DHTML. Use Basic text Formatting, Images
 Create a script that asks the user for a name, then greets the user with "Hello" and the user name on the page
 Create a script that collects numbers from a page and then adds them up and prints them to a blank field on the page.
 Create a script that prompts the user for a number and then counts from 1 to that number displaying only the odd numbers.
