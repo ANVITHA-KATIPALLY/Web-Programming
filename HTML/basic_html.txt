@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Basic in HTML</title>
+</head>
+<body>
+	<h1>HEADING</h1>
+	<h2>Sub Heading</h2>
+	<p>All about paragraph section is written here.Paragraph has the attributes &quot; align &quot; which is justify by default. There are 4 types of alignment: it can center|left|right|justify.</p>
+	<hr>
+	<h3>Here goes our 3rd Sub heading</h3>
+	<p align="center"><b> Paragragh is Centered.</b>Here’s an interesting science fact for you: According to researchers at Imperial College London, humans shed around 200 million skin cells each hour—and they have to go somewhere when we’re indoors. If the idea of skin dust isn’t sitting well with you, you should know that a report from the American Chemical Society found that a skin oil called squalene naturally helps reduce indoor ozone levels by up to 15 percent.</p>
+	<br>
+	<p align="left"><b>Paragragh is aligned to left.</b>Here’s an interesting science fact for you: According to researchers at Imperial College London, humans shed around 200 million skin cells each hour—and they have to go somewhere when we’re indoors. If the idea of skin dust isn’t sitting well with you, you should know that a report from the American Chemical Society found that a skin oil called squalene naturally helps reduce indoor ozone levels by up to 15 percent.</p>
+	<br>
+	<p align="right"><b>Paragraph is aligned to right.</b>Here’s an interesting science fact for you: According to researchers at Imperial College London, humans shed around 200 million skin cells each hour—and they have to go somewhere when we’re indoors. If the idea of skin dust isn’t sitting well with you, you should know that a report from the American Chemical Society found that a skin oil called squalene naturally helps reduce indoor ozone levels by up to 15 percent.</p>
+	<br>
+	<p align="justify"><b>This is most preferrable alignment named Justify.</b>Here’s an interesting science fact for you: According to researchers at Imperial College London, humans shed around 200 million skin cells each hour—and they have to go somewhere when we’re indoors. If the idea of skin dust isn’t sitting well with you, you should know that a report from the American Chemical Society found that a skin oil called squalene naturally helps reduce indoor ozone levels by up to 15 percent.</p>
+	<hr width="50%">
+</body>
+</html>
