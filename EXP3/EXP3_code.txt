@@ -1,0 +1,20 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <script> 
+            function press(){ 
+            let x = document.getElementById("input").value; 
+                alert("Hello, " + x + "!");
+                document.write("Hello, " + x + "!");
+                console.log("Hello, " + x + "!");
+            } 
+        </script> 
+    </head> 
+    <body> 
+        <p> 
+            Name: <input id="input"> 
+            <button onclick="press()">Greet</button> 
+        </p> 
+        <p id="output"></p> 
+    </body> 
+</html> 
