@@ -1,0 +1,14 @@
+<html>
+<head><title>title</title></head>
+<body background color="peach">
+<header align="center">
+	<img src="file:///home/itlab1/Desktop/1219/logo.png">
+	<h1> BVRIT HYDERABAD<br>COLLEGE OF ENGINEERING FOR WOMEN</h1>
+	<hr color="skyblue" width="70%">
+</header>
+<h2 color="peach"> <b>ABOUT US</b></h2>
+<br>
+
+<p>BVRIT HYDERABAD College of Engineering for Women is the youngest college under the umbrella of Sri Vishnu Educational Society, Established in 2012, with the intention of enabling women engineers to reach greater heights, it has already acquired many accolades in academics, placements and technical competitions. With exceptional results of very first batch, BVRIT HYDERABAD is now one of the most sought after institute in Hyderabad for prospective engineering students.</p>
+</body>
+</html>
