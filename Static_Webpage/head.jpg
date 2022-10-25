@@ -1,0 +1,8 @@
+<html>
+<head>
+	<title>image</title>
+</head>
+<body style="background-color: lightblue;">
+	<img src="head.jpg" height = "100" width="1200" alt="head image">
+</body>
+</html>
