@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Images</title>
+</head>
+<body>
+	<h1>About Adding Images</h1>
+	<p>There are Two paths: 1.Relative path 2.Absolute path</p>
+	<hr>
+	<h4>1.Using relative path</h4>
+	<img src="htmlLogo.png" alt="This is an HTML logo" align = "center" width = "250" height="250">
+	<br>
+	<img src="html Logo.png" alt="This is an HTML logo">
+	<br>
+	<br>
+	<hr>
+	<h4>2.Using Absolute path</h4>
+	<img src="C:\Users\Nimisha\Downloads\htmlLogo.png" alt="This is an HTML logo" style="float: left;width: 200px;height:200px;">
+
+</body>
+</html>
