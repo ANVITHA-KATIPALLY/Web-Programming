@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Basic Structure of HTML</title>
+</head>
+<body>
+	<h1>main heading</h1>
+	<h2>2nd Heading</h2>
+	<p>Here a paragraph/paragraphs are written.This is my first html code written.</p>
+	<!--This is how a comment works in HTML-->
+	<hr>
+</body>
+</html>
