@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Styles and Fonts</title>
+</head>
+<body style="background-color: blue;">
+	<h1 align="center" style="background-color: rosybrown; color: white;font-family: monospace;">Styles</h1>
+
+<hr>
+<h2><b style="color : crimson;">Brief Info About Styles</b></h2>
+<p style="color: firebrick;"> This is a paragraph.</p>
+<hr>
+	<h1 align="center" style="background-color: rosybrown; color: white;font-family: monospace;">Fonts</h1>
+	<h2> Font Variations</h2>
+	<p>We can use <b>simple</b> tags to <i>change</i> the appearence of <strong>text</strong> within <tt>Web pages</tt>. Even super<sup>script</sup> and sub<sub>script</sub> are <em>supported.</em></p>
+	<br>
+	<hr width="50%" align="left">
+	<h2>Font Formatting</h2>
+	<h3>Simple paragraph</h3>
+	<p>You can place <strong>orders</strong> via our  Web site or by using the <font size="+2">telephone &copy;</font>if you <i>must</i>. Call in person for orders &lt; 50 dollars.<br> <i>&quot; We are always ready to help &quot;</i></p>
+	<h4>Address</h4>
+	<pre>
+		Unit 5,ABC Colony,
+		Hyderabad, Telangana
+	</pre>	
+</body>
+</html>
